@@ -1,10 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rafif Zahran Haryadi</h1>
-<h3 align="center">Still Learning</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gregroww&label=Profile%20views&color=0e75b6&style=flat" alt="gregroww" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gregroww" alt="gregroww" /></a> </p>
-
 - 📫 How to reach me **rafif.zahran.haryadi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -19,3 +13,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gregroww&show_icons=true&locale=en&layout=compact" alt="gregroww" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gregroww&show_icons=true&locale=en" alt="gregroww" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gregroww&" alt="gregroww" /></p>
