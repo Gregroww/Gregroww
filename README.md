@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am undergraduate at a university in Samarinda. <br>I have interest in web development and data analysis.<br>In my free time, I enjoy listening to music and reading books. <br>I am also audio and keyboards enthusiast.<br>My current setup includes:<br>- Keyboard: VortexSeries GT65 Barebone, Akko Yellow V3 Switch, ePBT Japanese Black keycaps<br>- Audio: Soratune Yi01, DAC Shanling UA4<br>
+I am undergraduate at a university in Samarinda. <br>I have interest in web development and data analysis.<br>In my free time, I enjoy listening to music and reading books. <br>I am also audio and keyboards enthusiast.<br>My current setup includes:<br>- Keyboard: VortexSeries GT65 Barebone, Akko Yellow V3 Switch, ePBT Japanese Black keycaps<br>- Audio: Soratune Yi01, DAC Questyle M15C ,FiiO K11 R2R , Verus Modi C4 <br>
 
 
 ## 🌐 Socials:
